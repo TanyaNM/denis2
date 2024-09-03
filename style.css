@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+body{
+    background-image: url(https://i.ytimg.com/vi/gS_mPcfJmgs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBD-VBY8et8g-z6chvY1Zzg1K-wxA);
+   background-size: cover; 
+}
+ a{
+    margin: 30px;
+    border: 3px solid blue;
+    background: white;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 5px;
+    color: rgb(0, 0, 0);
+}
